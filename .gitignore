@@ -1,0 +1,8 @@
+clientes/__pycache__/
+clientes/migrations/__pycache__/
+
+clientes_api/__pycache__/
+
+env/
+
+db.sqlite3
